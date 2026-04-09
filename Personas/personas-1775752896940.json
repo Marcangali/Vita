@@ -1,0 +1,23 @@
+{
+  "type": "personas",
+  "characters": [
+    {
+      "id": "1",
+      "name": "Politician A",
+      "personality": "Overly dramatic, uses big words incorrectly, always blames the opposition.",
+      "color": "#ef4444",
+      "voiceType": "googleCloud",
+      "geminiVoice": "Puck",
+      "googleCloudVoice": "en-US-Journey-D"
+    },
+    {
+      "id": "2",
+      "name": "Politician B",
+      "personality": "Speaks in folksy metaphors, pretends to be a commoner, passive-aggressive.",
+      "color": "#3b82f6",
+      "voiceType": "googleCloud",
+      "geminiVoice": "Kore",
+      "googleCloudVoice": "en-US-Journey-F"
+    }
+  ]
+}
